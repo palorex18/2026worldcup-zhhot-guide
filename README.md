@@ -1,2 +1,14 @@
 # 2026worldcup-zhhot-guide
-HTML page archive and documentation
+
+静态页面记录中心
+
+本仓库用于整理 HTML 页面输出结果，并保留对应的仓库说明。
+
+## 维护文件
+
+- 静态页面保存在根目录
+- README 提供简要说明
+
+## 公开访问
+
+公开访问状态取决于仓库权限、Pages 配置和 GitHub 同步状态。
